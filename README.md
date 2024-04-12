@@ -12,7 +12,7 @@ Compiling and Running the Code
    - Navigate to the directory where you want to clone the repository.
    - Run the following command to clone the repository:
      
-     git clone https://github.com/st10360400/recipe1-program.git
+     git clone https://github.com/st103600400/recipe1-program.git
      
 
 2. open the Project in Visual Studio:
