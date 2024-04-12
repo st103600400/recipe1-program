@@ -1,5 +1,7 @@
 Introduction
-The Unique Recipe App is a console-based application that allows users to manage and scale their recipes. Users can enter recipe details, display the recipe, scale the recipe, reset ingredient quantities, and clear all data.
+
+
+The Recipe App is a console-based application that allows users to manage and scale their recipes. Users can enter recipe details, display the recipe, scale the recipe, reset ingredient quantities, and clear all data.
 
  Prerequisites
 - Microsoft Visual Studio or any other C# development environment
